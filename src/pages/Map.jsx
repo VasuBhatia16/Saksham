@@ -1,7 +1,7 @@
 import { GoogleMap, InfoWindow, Marker } from "@react-google-maps/api";
 import custommarker from "./output-onlinepngtools (1).png";
 import { useEffect, useRef, useState } from "react";
-import "./Map.css";
+import "./MapS.css";
 import Navbar from "./Navbar";
 
 const Map = (props) => {
